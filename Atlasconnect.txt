@@ -1,0 +1,3 @@
+username: vdnnguyen94
+password: SD8C4AGbbF2nrd3o94
+link: mongodb+srv://vdnnguyen94:SD8C4AGbbF2nrd3o@comp229-assignment2.v2haftn.mongodb.net/?retryWrites=true&w=majority
